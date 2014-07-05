@@ -8,3 +8,8 @@ Feel free to fork and improve my work and have a great day.
 
 Install the final release here:
 https://chrome.google.com/webstore/detail/minecraft-skin-viewer/bbecdhcllnbjhloilhlcfcnlhmcfomhg
+
+
+##Release control
+> V1.0 - Supports simple layout using skin.luke.sx However this will go offline on July 4th.
+? V1.1 - Updated to work with my new skin API coming soon.
