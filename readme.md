@@ -12,4 +12,4 @@ https://chrome.google.com/webstore/detail/minecraft-skin-viewer/bbecdhcllnbjhloi
 
 ##Release control
 > V1.0 - Supports simple layout using skin.luke.sx However this will go offline on July 4th.
-? V1.1 - Updated to work with my new skin API coming soon.
+> V1.1 - Added a temporary fix because Google took my app offline due to images breaking.
