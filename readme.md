@@ -1,5 +1,5 @@
 Google Chrome Extension - Minecraft Skin Viewer
-==========================
+----
 
 A simple extension of http://skin.luke.sx available for Chrome Users.
 
